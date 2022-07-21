@@ -2,6 +2,10 @@ import React from "react";
 import { Input } from "semantic-ui-react";
 
 function Search(props) {
+
+  console.log(props)
+
+
   return (
     <div>
       <Input
